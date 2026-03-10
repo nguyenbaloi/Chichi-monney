@@ -1,0 +1,6 @@
+package com.example.easy_chichi_monney;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
